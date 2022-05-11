@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-image:linear-gradient(black, blue , gold, red) ;
+  
+}
+
+
+
+
+
+
+img {
+  margin-left:auto;  
+margin-right:auto;
+display:block;  
+  height:200px ;
+  width: 250px;
+  border-top: 100px;
+  border-bottom: 200px ;
+ 
+}
+
+.flnm{
+  color:rgb(243, 168, 7);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(30, 255, 0);
+    font-size: 100px;
+
+}
+.nom{
+  color:rgb(89, 0, 255);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(243, 168, 7);
+    font-size: 100px;
+    font-family: "Lucida Console", "Courier New", monospace;
+  height:500px;
+  
+}
+
+
